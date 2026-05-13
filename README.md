@@ -4,6 +4,8 @@
 ![Stack](https://img.shields.io/badge/Stack-FastAPI%20%7C%20React%20%7C%20PostgreSQL-blue)
 ![Docker](https://img.shields.io/badge/Deploy-Docker%20Compose-informational)
 
+![Dashboard](dashboard.png)
+
 > Real-time AI-powered threat detection engine for web server access logs.
 > Detects SQL injection, directory traversal, brute force, and scanner attacks
 > using a hybrid ML ensemble (Autoencoder + Random Forest + Isolation Forest).
