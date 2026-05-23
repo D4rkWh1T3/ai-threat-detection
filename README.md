@@ -30,7 +30,7 @@
 ## Quick Start
 ### 1. Clone
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-threat-detection.git
+git clone https://github.com/D4rkWh1T3/ai-threat-detection.git
 cd ai-threat-detection
 ```
 ### 2. Configure
